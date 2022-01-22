@@ -125,6 +125,8 @@ const controlAddRecipe = async function (newRecipe) {
   }
 };
 
+const newFeature = () => console.log(`Welcome to the application!`);
+
 const init = function () {
   // Publisher - subscriber pattern - relation controller view
   // Event should be listened for in view
