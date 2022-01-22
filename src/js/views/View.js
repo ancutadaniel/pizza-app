@@ -5,7 +5,7 @@ export default class View {
   _data;
 
   /**
-   * Documentation how write this in on Jsdoc.app
+   * Documentation how write this in on Jsdoc.app.
    * Render the received object to the DOM
    * @param {Object | Object[]} data The data to be render(e.g. recipe)
    * @param {boolean} [render=true] If false create markup string instead rendering to the DOM
