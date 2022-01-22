@@ -126,6 +126,7 @@ const controlAddRecipe = async function (newRecipe) {
 };
 
 const newFeature = () => console.log(`Welcome to the application!`);
+newFeature();
 
 const init = function () {
   // Publisher - subscriber pattern - relation controller view
